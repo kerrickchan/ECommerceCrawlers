@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.10.11
 alembic==1.0.10
 altgraph==0.16.1
 asn1crypto==0.24.0
